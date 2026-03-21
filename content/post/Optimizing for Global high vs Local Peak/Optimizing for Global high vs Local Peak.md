@@ -3,7 +3,7 @@ title: Optimizing for Global high vs Local Peak
 description: 
 slug: 
 date: 2026-03-21 15:00
-image: cover.png
+image: cover.jpg
 categories:
   - Personal
 tags:

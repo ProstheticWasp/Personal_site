@@ -14,6 +14,8 @@ tags:
 weight: 1
 ---
 
+<script src="https://keepandroidopen.org/banner.js"></script>
+
 >[!Tip] Definitions
 >- Local peak = Low hanging fruit with the maximum peak within a local window
 >- Global High = Not the low hanging fruit more often than not, often higher than Local Peak

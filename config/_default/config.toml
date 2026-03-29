@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl      = "https://554855.xyz/"
+baseurl      = "https://blog.554855.xyz/"
 languageCode = "en-us"
 title        = "Regular Blog site"
 

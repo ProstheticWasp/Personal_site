@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "☯"
-    subtitle = "I believe you have my stapler"
+    subtitle = "I believe you have my stapler, please give it back"
     avatar   = "img/avatar.png"
 
 [article]

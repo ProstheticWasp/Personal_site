@@ -2,5 +2,11 @@
 [en]
     languageName      = "English"
     languagedirection = "ltr"
-    title             = "Example Site"
+    title             = "Blog page"
+    weight            = 1
+
+[jp]
+    languageName      = "Japanese"
+    languagedirection = "ltr"
+    title             = ""
     weight            = 1
